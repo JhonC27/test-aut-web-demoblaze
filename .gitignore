@@ -1,0 +1,11 @@
+.vscode
+.idea
+.eclipse
+.gradle
+.mvn
+target/
+build
+out
+.DS_Store
+*.jar
+*.log
